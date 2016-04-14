@@ -1,0 +1,44 @@
+94 comm.
+
+Simile quid accidisse crediderim in eiusdem fabulae vs. 793:
+οὓς χρῆν σπένδειν [καὶ χαίρειν], εἴπερ ἀληθῶς
+ἔνδοθεν ηὕρετε Φροῦδον τὸ κακὸν κτὲ.
+nbi expectes:
+οὓς χρῆν <3ύειν nai> σπένδειν, κτλ.
+
+quibus magistellus suum χαίρειν explicandi causa . ni fallor,
+superscripsit, quod in textum se insinuavit exturbavitque verba
+genuina.
+
+Equit. 259
+
+κάποσυκάζεις πιέζων τοὺς ὑπευθύνους σκοπῶν κτὲ.
+Locus perobscurus. Vid. Ribbecki annotatio. Facilem explicatio·
+nem haberet τοὺς ὑπηκόους, i. e. Atheniensium subditos, qni-
+
+bus opponi solent οἱ ἀπὸ ξυμμαχίας αὐτόνομοι.
+
+Equit. 389 ,
+ὥς ἕοὶν νυνὶ μαλάξῃς αὐτὸν ἕν τῇ προσβολῇ.
+Schol. ἐὰν ἒν τῇ ΛΡχῇ κατοιγωνίση καὶ ἀσθενῆ ποιήσῃς. corrigatur
+ΜΛχῃ.
+
+Eq. 710
+Paphl. ἕλξω σε πρὸς τὸν Δῆμον, ἵνοι δῷς μοι δίκην.
+Isic. κάγὼ δέ σ’ ἕλξω καὶ διαβαλῶ πλείονα.
+Fortasse poeta more suo vehementius verbum dedit isiciario‚
+et Paphlagonem fecit dicentum:
+ἄξω σε πρὸς τὸν Δῆμον, κτὲ.
+
+Eq. 804
+
+ἀλλ’ ὑπ’ ἀνάγκης ἅμα καὶ χρείας καὶ μισθοῦ πρός σε κεχήνῃ.
+Num satis recte dicatur κεχηνέναι πρός τινα. ὑπὸ μισθοῦ pro
+διὰ μισθόν, dubito. Praeterea displicet χρείαις nude additum,
+siquidem ita iunctum, adiecto praesertim ἅμα , χρεία ab
+dudm„ diversissimum esse debet nec aliud sig-nificare potest
+quam cepido, desiderium. Quapropter nescio an corrigendum sit:
+
+ἀλλ’ ὑπ’ ἀνάγκης ἅμα καὶ χρείαις το ’ῦ μισ ὃ ο ῦ πρός σε κεχήνῃ,
+i. e. aed mercedis amenitate simul et cupidine cett.
+
